@@ -1,8 +1,8 @@
 # LeetCode Learn - Arrays 101
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-3/18-1f425f.svg)
-![problems-solved-java](https://img.shields.io/badge/Java-3/18-1abc9c.svg)
-![problems-solved-python](https://img.shields.io/badge/Python-3/18-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-4/18-1f425f.svg)
+![problems-solved-java](https://img.shields.io/badge/Java-4/18-1abc9c.svg)
+![problems-solved-python](https://img.shields.io/badge/Python-4/18-1abc9c.svg)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 
 🔒 = Subscription Content
@@ -18,7 +18,7 @@
 ## Inserting Items Into An Array
 | Question | Solution | Youtube |
 |------|:--------:|:-------:|
-| [Duplicate Zeros](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3245/) | [![Java](assets/java.png)](java/src/) [![Python](assets/python.png)](python/) | 
+| [Duplicate Zeros](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3245/) | [![Java](assets/java.png)](java/src/DuplicateZeros.java) [![Python](assets/python.png)](python/duplicate_zeros.py) | 
 | [Merge Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3253/) | [![Java](assets/java.png)](java/src/) [![Python](assets/python.png)](python/) | 
 
 
