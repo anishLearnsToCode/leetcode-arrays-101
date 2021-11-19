@@ -12,7 +12,7 @@
 |------|:--------:|:----------------------:|
 | [Max Consecutive Ones](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3238/) | [![Java](assets/java.png)](java/src/MaxConsecutiveOnes.java) [![Python](assets/python.png)](python/max_consecutive_ones.py) | 
 | [Find Numbers with Even Number of Digits](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3237/) | [![Java](assets/java.png)](java/src/FindNumbersWithEvenNumberOfDigits.java) [![Python](assets/python.png)](python/find_number_with_even_number_of_digits.py) | 
-| [Squares of a Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3240/) | [![Java](assets/java.png)](java/src/) [![Python](assets/python.png)](python/) | 
+| [Squares of a Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3240/) | [![Java](assets/java.png)](java/src/SquaresOfSortedArray.java) [![Python](assets/python.png)](python/squares_of_a_sorted_array.py) | 
 
 
 ## Inserting Items Into An Array
