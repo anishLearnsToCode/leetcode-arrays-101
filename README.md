@@ -32,8 +32,8 @@
 ## Searching For Items In An Array
 | Question | Solution | Youtube |
 |------|:--------:|:----------------------:|
-| [Check if N And It's Double Exists](https://leetcode.com/explore/learn/card/fun-with-arrays/527/searching-for-items-in-an-array/3250/) | [![Java](assets/java.png)](java/src/) [![Python](assets/python.png)](python/) | 
-| [Valid Mountain Array](https://leetcode.com/explore/learn/card/fun-with-arrays/527/searching-for-items-in-an-array/3251/) | [![Java](assets/java.png)](java/src/) [![Python](assets/python.png)](python/) | 
+| [Check if N And It's Double Exists](https://leetcode.com/explore/learn/card/fun-with-arrays/527/searching-for-items-in-an-array/3250/) | [![Java](assets/java.png)](java/src/CheckIfNAndItsDoubleExist.java) [![Python](assets/python.png)](python/check_if_n_and_its_double_exists.py) | 
+| [Valid Mountain Array](https://leetcode.com/explore/learn/card/fun-with-arrays/527/searching-for-items-in-an-array/3251/) | [![Java](assets/java.png)](java/src/ValidMountainArray.java) [![Python](assets/python.png)](python/valid_mountain_array.py) | 
 
 
 ## In-Place Operations
