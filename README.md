@@ -26,7 +26,7 @@
 | Question | Solution | Youtube |
 |------|:--------:|:----------------------:|
 | [Remove Element](https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/3247/) | [![Java](assets/java.png)](java/src/RemoveElement.java) [![Python](assets/python.png)](python/remove_element.py) | 
-| [Remove Duplicates from Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/3248/) | [![Java](assets/java.png)](java/src/) [![Python](assets/python.png)](python/) | 
+| [Remove Duplicates from Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/3248/) | [![Java](assets/java.png)](java/src/RemoveDuplicatesFromSortedArray.java) [![Python](assets/python.png)](python/remove_duplicate_elements_from_sorted_array.py) | 
 
 
 ## Searching For Items In An Array
