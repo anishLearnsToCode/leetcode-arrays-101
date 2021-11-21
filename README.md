@@ -43,13 +43,13 @@
 | [Remove Duplicates from Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3258/) | [![Java](assets/java.png)](java/src/RemoveDuplicatesFromSortedArray.java) [![Python](assets/python.png)](python/remove_duplicate_elements_from_sorted_array.py) | 
 | [Move Zeros](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3157/) | [![Java](assets/java.png)](java/src/MoveZeros.java) [![Python](assets/python.png)](python/move_zeros.py) | 
 | [Sort Array By Parity](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3260/) | [![Java](assets/java.png)](java/src/SortArrayByParity.java) [![Python](assets/python.png)](python/sort_array_by_parity.py) | 
-| [Remove Element](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3575/) | [![Java](assets/java.png)](java/src/) [![Python](assets/python.png)](python/) | 
+| [Remove Element](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3575/) | [![Java](assets/java.png)](java/src/RemoveElement.java) [![Python](assets/python.png)](python/remove_element.py) | 
 
 
 ## Conclusion
  Name | Solution | Youtube |
 |------|:--------:|:----------------------:|
-| [Height Checker](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3228/) | [![Java](assets/java.png)](java/src/) [![Python](assets/python.png)](python/) | 
-| [Third Maximum Number](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3231/) | [![Java](assets/java.png)](java/src/) [![Python](assets/python.png)](python/) | 
-| [Find All Numbers Disappeared in an Array](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3270/) | [![Java](assets/java.png)](java/src/) [![Python](assets/python.png)](python/) | 
+| [Height Checker](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3228/) | [![Java](assets/java.png)](java/src/HeightChecker.java) [![Python](assets/python.png)](python/) | 
+| [Third Maximum Number](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3231/) | [![Java](assets/java.png)](java/src/ThirdMaximumNumber.java) [![Python](assets/python.png)](python/third_maximum_number.py) | 
+| [Find All Numbers Disappeared in an Array](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3270/) | [![Java](assets/java.png)](java/src/FindAllNumbersDisappearedInAnArray.java) [![Python](assets/python.png)](python/find_all_numbers_that_dissapeared.py) | 
 | [Squares of a Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3574/) | [![Java](assets/java.png)](java/src/) [![Python](assets/python.png)](python/) | 
