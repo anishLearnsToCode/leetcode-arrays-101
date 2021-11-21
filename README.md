@@ -1,8 +1,8 @@
 # LeetCode Learn - Arrays 101
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-11/18-1f425f.svg)
-![problems-solved-java](https://img.shields.io/badge/Java-11/18-1abc9c.svg)
-![problems-solved-python](https://img.shields.io/badge/Python-11/18-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-18/18-1f425f.svg)
+![problems-solved-java](https://img.shields.io/badge/Java-18/18-1abc9c.svg)
+![problems-solved-python](https://img.shields.io/badge/Python-18/18-1abc9c.svg)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 
 🔒 = Subscription Content
@@ -52,4 +52,4 @@
 | [Height Checker](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3228/) | [![Java](assets/java.png)](java/src/HeightChecker.java) [![Python](assets/python.png)](python/) | 
 | [Third Maximum Number](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3231/) | [![Java](assets/java.png)](java/src/ThirdMaximumNumber.java) [![Python](assets/python.png)](python/third_maximum_number.py) | 
 | [Find All Numbers Disappeared in an Array](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3270/) | [![Java](assets/java.png)](java/src/FindAllNumbersDisappearedInAnArray.java) [![Python](assets/python.png)](python/find_all_numbers_that_dissapeared.py) | 
-| [Squares of a Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3574/) | [![Java](assets/java.png)](java/src/) [![Python](assets/python.png)](python/) | 
+| [Squares of a Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3574/) | [![Java](assets/java.png)](java/src/SquaresOfSortedArray.java) [![Python](assets/python.png)](python/squares_of_a_sorted_array.py) | 
