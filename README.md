@@ -42,7 +42,7 @@
 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3259/) | [![Java](assets/java.png)](java/src/ReplaceElementsWithGreatestOnTheRightSide.java) [![Python](assets/python.png)](python/replace_elements_with_greatest_on_right.py) | 
 | [Remove Duplicates from Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3258/) | [![Java](assets/java.png)](java/src/RemoveDuplicatesFromSortedArray.java) [![Python](assets/python.png)](python/remove_duplicate_elements_from_sorted_array.py) | 
 | [Move Zeros](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3157/) | [![Java](assets/java.png)](java/src/MoveZeros.java) [![Python](assets/python.png)](python/move_zeros.py) | 
-| [Sort Array By Parity](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3260/) | [![Java](assets/java.png)](java/src/) [![Python](assets/python.png)](python/) | 
+| [Sort Array By Parity](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3260/) | [![Java](assets/java.png)](java/src/SortArrayByParity.java) [![Python](assets/python.png)](python/sort_array_by_parity.py) | 
 | [Remove Element](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3575/) | [![Java](assets/java.png)](java/src/) [![Python](assets/python.png)](python/) | 
 
 
