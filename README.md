@@ -19,7 +19,7 @@
 | Question | Solution | Youtube |
 |------|:--------:|:-------:|
 | [Duplicate Zeros](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3245/) | [![Java](assets/java.png)](java/src/DuplicateZeros.java) [![Python](assets/python.png)](python/duplicate_zeros.py) | 
-| [Merge Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3253/) | [![Java](assets/java.png)](java/src/) [![Python](assets/python.png)](python/) | 
+| [Merge Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3253/) | [![Java](assets/java.png)](java/src/MergeSortedArray.java) [![Python](assets/python.png)](python/merge_sorted_array.py) | 
 
 
 ## Deleting Items From An Array
